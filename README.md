@@ -7,6 +7,7 @@ Usage
 -----
 
 |Buttons               |Effects                                                                 |
+|:---------------------|:-----------------------------------------------------------------------|
 |D                     |Change Modes(Line, Filled rectangle, Rectangle without fill)            |
 |A                     |Change the currently selected color(Red, Blue, Green)                   |
 |W and S               |W adds to the color, S removes                                          |
